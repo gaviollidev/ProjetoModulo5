@@ -26,8 +26,8 @@ header {
 
 header nav li {
     display: inline;
-    margin-left: 16px;
-    font-size: 18px;    
+    margin-left: 32px;
+    font-size: 20px;    
 }
 
 header nav li a {
@@ -41,9 +41,6 @@ header nav li a {
     width: 100%;
     margin: 0 auto;
 }
-
-/*ESTILO 4*/
-
 
 /*ESTILO 5*/
 header .container,
@@ -86,7 +83,11 @@ section p {
 
 /*ESTILO 8*/
 .store-front {
-    margin-right: 32px;
+    margin-right: 16px;
+}
+
+.logo-header {
+    margin-right: 0;
 }
 
 .social-links img {
@@ -145,14 +146,15 @@ input:focus, textarea:focus {
 }
 
 footer {
-    background-color: #1d3881;
+    background-color:#1d3881;
     color: #ecf0f1;    
-    padding: 16px;
-    height: 100px;
+    
+    
 }
 
 footer .container {
+    background-color: #1d3881;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-between;    
 }
