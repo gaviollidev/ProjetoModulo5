@@ -149,9 +149,8 @@ input:focus, textarea:focus {
 
 footer {
     background-color:#1d3881;
-    color: #ecf0f1;    
-    
-    
+    color: #ecf0f1;
+    height: 60px;     
 }
 
 footer .container {
