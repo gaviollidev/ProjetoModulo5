@@ -84,6 +84,8 @@ section p {
 /*ESTILO 8*/
 .store-front {
     margin-right: 16px;
+    max-width: 100%;
+    min-width: 100px;
 }
 
 .logo-header {
