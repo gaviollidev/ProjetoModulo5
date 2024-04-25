@@ -148,6 +148,10 @@ input:focus, textarea:focus {
     outline-color: #182C61;
 }
 
+.local {
+    max-width: 100%;
+}
+
 footer {
     background-color:#1d3881;
     color: #ecf0f1;
