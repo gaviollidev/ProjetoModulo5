@@ -22,6 +22,7 @@ header {
     padding: 0 0;
     background-color: #1d3881;
     color: #ecf0f1;
+    max-width: 100%;
 }
 
 header nav li {
@@ -150,7 +151,8 @@ input:focus, textarea:focus {
 footer {
     background-color:#1d3881;
     color: #ecf0f1;
-    height: 60px;     
+    height: 60px;   
+    max-width: 100%;  
 }
 
 footer .container {
